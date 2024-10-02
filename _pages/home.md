@@ -3,7 +3,7 @@ title: "4th International Workshop on Software Architecture and Machine Learning
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/background/background1.jpeg"
+  overlay_image: "/assets/images/background/denmark/background1.jpeg"
   overlay_filter: 0.4
   actions:
     - label: "Register here"

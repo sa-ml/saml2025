@@ -37,7 +37,7 @@ SAML 2025 will be co-located with the 22nd IEEE International Conference on Soft
 </style>
 | **Paper Submission** | Dec 20, 2024
 | **Notification of acceptance** | Jan 20, 2025
-| **Camera-ready** | TBA
+| **Camera-ready** | Jan 27, 2025
 | **Author Registration**| TBA
 | **Workshop** | TBA
 

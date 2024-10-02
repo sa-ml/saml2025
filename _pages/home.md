@@ -3,11 +3,11 @@ title: "4th International Workshop on Software Architecture and Machine Learning
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/background/denmark/background1.jpeg"
+  overlay_image: "/assets/images/denmkark/background1.jpeg"
   overlay_filter: 0.4
   actions:
-    - label: "Register here"
-      url: "#"
+    - label: "Call for Papers"
+      url: "https://sa-ml.github.io/saml2025/calls/submissions"
       #url: "https://conf.researchr.org/attending/icsa-2025/registration"
   # caption: 'Photo from <a href="https://drive.google.com/drive/u/0/folders/10XXSEjTNDmrwU0tqL58la1n3YlE-g4V8">EMNLP 2023 Website Image.png</a> '
 ---

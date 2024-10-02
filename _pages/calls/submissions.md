@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 toc_icon: "cog"
 header:
-  overlay_image: "/assets/images/hyderabad/hyderabad_saml_2.png"
+  overlay_image: "/assets/images/denmkark/background2.jpeg"
   overlay_filter: 0.4
   actions:
     - label: "Know more"
@@ -19,7 +19,7 @@ header:
 
 ## Call for Papers
 
-The increasing usage of machine learning (ML) coupled with the software architectural challenges of the modern era has given rise to two broad research challenges: i) Software architecture (SA) for ML-based systems and ii) ML techniques for (better) architecting any software system. In recent times, both the research and practitioner community have started exploring these research areas at the intersection of SA and ML. As a result, there have been emerging contributions from the scientific and practitioner community in these two research areas. However, these contributions are scattered across different communities of software engineering, self-adaptation, ML, etc. The goal of SAML 2024 is to bring together practitioners and the research community in one common platform to explore: i) how to come up with better SA practices for architecting ML-based systems; ii) how to leverage ML techniques to better architect software systems; iii) state of research and practice in architecting ML-based systems and in using ML techniques for architecting modern software systems. Further, SAML 2024 shall also provide a common forum to bring together both practitioners and researchers of SA and ML communities to identify and fill the research gaps that can benefit both communities. SAML 2024 seeks contributions in the form of full research papers, industry experience reports and short papers in topics including but not limited to:
+The increasing usage of machine learning (ML) coupled with the software architectural challenges of the modern era has given rise to two broad research challenges: i) Software architecture (SA) for ML-based systems and ii) ML techniques for (better) architecting any software system. In recent times, both the research and practitioner community have started exploring these research areas at the intersection of SA and ML. As a result, there have been emerging contributions from the scientific and practitioner community in these two research areas. However, these contributions are scattered across different communities of software engineering, self-adaptation, ML, etc. The goal of SAML 2025 is to bring together practitioners and the research community in one common platform to explore: i) how to come up with better SA practices for architecting ML-based systems; ii) how to leverage ML techniques to better architect software systems; iii) state of research and practice in architecting ML-based systems and in using ML techniques for architecting modern software systems. Further, SAML 2025 shall also provide a common forum to bring together both practitioners and researchers of SA and ML communities to identify and fill the research gaps that can benefit both communities. SAML 2025 seeks contributions in the form of full research papers, industry experience reports and short papers in topics including but not limited to:
 
 + Architecture design, analysis, and evaluation of ML-enabled systems.
 + Architecture frameworks, patterns, and models for ML-enabled systems
@@ -63,9 +63,9 @@ The accepted regular and short papers will be published in _ICSA 2025 Companion 
 
 **Paper Deadline:** December 20, 2024
 
-**Notification of acceptance:** January 20, 2024
+**Notification of acceptance:** January 20, 2025
 
-**Camera ready due:** TBD
+**Camera ready due:** January 27, 2025
 
 **Workshop dates:** TBD
 

@@ -6,7 +6,7 @@ permalink: /venue
 # toc_sticky: true
 # toc_icon: "cog"
 header:
-  overlay_image: "/assets/images/hyderabad/hyderabad_2.png"
+  overlay_image: "/assets/images/denmkark/background3.jpeg"
   overlay_filter: 0.4
   actions:
     - label: "Know more"

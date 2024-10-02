@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 toc_icon: "cog"
 header:
-  overlay_image: "/assets/images/denmkark/background2.jpeg"
+  overlay_image: "/assets/images/denmark/background2.jpeg"
   overlay_filter: 0.4
   actions:
     - label: "Know more"

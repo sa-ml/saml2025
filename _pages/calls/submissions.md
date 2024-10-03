@@ -50,7 +50,7 @@ The increasing usage of machine learning (ML) coupled with the software architec
 
 + **Position papers** with expressed interest, 1 page
 
-All contributions should be submitted before the submission deadline using ICSA's EasyChair [online submission site](#) (select the track "4th International Workshop on Software Architecture and Machine Learning"). Submissions must follow the [IEEE Computer Science proceedings format](https://www.ieee.org/conferences/publishing/templates.html) and abide by the **single-anonymous** submission process (author identities are known). All submissions must be original work and must not have been previously published, nor be under consideration for publication elsewhere. Artifacts related to the paper, if any, can be submitted by uploading the data/code to repositories such as [Zenodo](https://zenodo.org/) or [Figshare](https://figshare.com/), with the link to these contributions included in the paper.
+All contributions should be submitted before the submission deadline using ICSA's EasyChair [online submission site](https://easychair.org/conferences?conf=icsa2025) (select the track "4th International Workshop on Software Architecture and Machine Learning"). Submissions must follow the [IEEE Computer Science proceedings format](https://www.ieee.org/conferences/publishing/templates.html) and abide by the **single-anonymous** submission process (author identities are known). All submissions must be original work and must not have been previously published, nor be under consideration for publication elsewhere. Artifacts related to the paper, if any, can be submitted by uploading the data/code to repositories such as [Zenodo](https://zenodo.org/) or [Figshare](https://figshare.com/), with the link to these contributions included in the paper.
 
 ## Proceedings
 
@@ -67,7 +67,7 @@ The accepted regular and short papers will be published in _ICSA 2025 Companion 
 
 **Camera ready due:** January 27, 2025
 
-**Workshop dates:** TBD
+**Workshop dates:** Either March 31 or April 1, 2025 (TBA)
 
 
 

@@ -13,7 +13,7 @@ header:
 ---
 
 ## Welcome!
-SAML 2025 will be co-located with the 22nd IEEE International Conference on Software Architecture (ICSA) 2025, **31 March - 4 April**, Odense, Denmark.
+SAML 2025 will be co-located with the 22nd IEEE International Conference on Software Architecture (ICSA) 2025, **31 March - 4 April, 2025**, Odense, Denmark.
 
 
 ## News

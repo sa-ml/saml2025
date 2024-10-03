@@ -33,7 +33,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "saml2024"
+    shortname            : "saml2025"
 reCaptcha:
   siteKey                :
   secret                 :

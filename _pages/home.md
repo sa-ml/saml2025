@@ -23,6 +23,7 @@ SAML 2025 will be co-located with the 22nd IEEE International Conference on Soft
 </style>
 
 | 2024-10-02 | The official SAML 2025 website is launched.
+| 2024-10-02 | Call for papers is released.
 | 2025-01-20 | List of accepted papers is released.
 {: .news-table}
 

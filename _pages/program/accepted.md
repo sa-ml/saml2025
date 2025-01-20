@@ -8,12 +8,14 @@ toc_icon: "cog"
 sidebar:
     nav: program
 ---
-Sune Chung Jepsen, Anna Hye Ølgaard and Mikkel Baun Kjærgaard: **Architecting Machine Learning Systems: Which Parts are the Architect’s Pain?** (Short paper)
+Xiwei Xu, Dawen Zhang, Qing Liu, Qinghua Lu and Liming Zhu **Agentic RAG with Human-in-the-Retrieval**
  
-Rachel Brower-Sinning, Grace Lewis, Sebastian Echeverria and Ipek Ozkaya: **Using Quality Attribute Scenarios for ML Model Test Case Generation**
+Gaurav Kumbhat and Evaline Ju: **Serving LLMs as detectors in workflows with guardrails**
  
-Dolors Costal, Cristina Gómez, Santiago Del Rey and Silverio Martínez-Fernández: **Using Metrics for Code Smells of ML Pipelines**
+Malene Christiane Nielsen and Serkan Ayvaz: **POE-ML: An automated Pipeline for Optimization and Evaluation of Machine Learning**
  
-Deepali Kholkar, Suraj Thapa, Akhilesh Pal and Suman Roychoudhury: **Feature Model Based Integration of Machine Learning in Software Product Lines**
+Muhammad Atif, Tommaso Zoppi and Andrea Bondavalli: **System-Awareness: an Enabling Condition to Design and Deploy Anomaly Detectors**
  
-Jasmin Jahic and Ashkan Sami: **State of Practice: LLMs in Software Engineering and Software Architecture**
+Nicolas Weeger, Annika Stiehl, Jóakim von Kistowski, Stefan Geißelsöder and Christian Uhl: **Towards practicable Machine Learning development  using AI Engineering Blueprints**
+
+Robert Lowe, Maria Ulan, Thanh Hai Bui, Ana Adell, Jokin Labaien and Axel Brand: **Managing Sources of Uncertainty in Utilizing AI in Development and Deployment of Safety-Critical Autonomous Systems**

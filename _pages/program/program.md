@@ -17,6 +17,8 @@ sidebar:
 .news-table tr td:nth-child(1) { font-weight: bold; width: 9em; }
 </style>
 
+TBA
+
 <!--The workshop program will include paper presentations, a panel with with participants from academia and industry, and a [keynote](/program/keynotes). More details will be announced, soon. -->
 
 <!--
@@ -30,7 +32,7 @@ sidebar:
 {: .news-table}
 -->
 
- **Tuesday, June 4 2024**
+<!-- **Tuesday, June 4 2024**
 
 | Start |  End  | Session                             |
 | :---: | :---: | :---------------------------------- |
@@ -47,9 +49,9 @@ sidebar:
 | 15:30 | 16:00 | Coffee Break |
 | 16:00 | 17:00 | Industry Academia Panel Discussion |
 | 17:00 | 17:30 | Closing Thoughts from SAML OC |
+-->
 
-
-**Please note that due to unforeseen circumstances the keynote by Heiko Koziolek had to be cancelled**
+<!--**Please note that due to unforeseen circumstances the keynote by Heiko Koziolek had to be cancelled**-->
 
 <!-- This is a test>
 <!--

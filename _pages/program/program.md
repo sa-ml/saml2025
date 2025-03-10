@@ -17,8 +17,6 @@ sidebar:
 .news-table tr td:nth-child(1) { font-weight: bold; width: 9em; }
 </style>
 
-TBA
-
 <!--The workshop program will include paper presentations, a panel with with participants from academia and industry, and a [keynote](/program/keynotes). More details will be announced, soon. -->
 
 <!--
@@ -32,24 +30,25 @@ TBA
 {: .news-table}
 -->
 
-<!-- **Tuesday, June 4 2024**
+**Tuesday, April 1 2025**
 
 | Start |  End  | Session                             |
 | :---: | :---: | :---------------------------------- |
-| 10:15 | 10:30 | Welcome and Intro from the SAML OC |
-| 10:30 | 10:55 | Deepali Kholkar, Suraj Thapa, Akhilesh Pal and Suman Roychoudhury: **Feature Model Based Integration of Machine Learning in Software Product Lines** |  
-| 11:00 | 11:30 | Coffee Break |    
-| 11:30 | 11:50 | Sune Chung Jepsen, Anna Hye Ølgaard and Mikkel Baun Kjærgaard: **Architecting Machine Learning Systems: Which Parts are the Architect’s Pain?** | 
-| 11:50 | 12:10 | Rachel Brower-Sinning, Grace Lewis, Sebastian Echeverria and Ipek Ozkaya: **Using Quality Attribute Scenarios for ML Model Test Case Generation** |
-| 12:10 | 12:35 | Dolors Costal, Cristina Gómez, Santiago Del Rey and Silverio Martínez-Fernández: **Using Metrics for Code Smells of ML Pipelines** |
-| 12:35 | 13:00 | Jasmin Jahic and Ashkan Sami: **State of Practice: LLMs in Software Engineering and Software Architecture** |
-| 13:00 | 14:00 | Lunch |
-| 14:00 | 14:30 | Invited Talk: Ipek Ozkaya on **Report from Dagstuhl Seminar 23302 (Software Architecture and Machine Learning)** |
-| 14:30 | 15:30 | Most pressing challenges in SA4ML and ML4SA and research ideas to start addressing them |
-| 15:30 | 16:00 | Coffee Break |
-| 16:00 | 17:00 | Industry Academia Panel Discussion |
-| 17:00 | 17:30 | Closing Thoughts from SAML OC |
--->
+| 09:00 | 09:15 | Welcome and Intro from the SAML OC |
+| 09:15 | 09:30 | Xiwei (Sherry) Xu, Dawen (David) Zhang, Qing Liu, Qinghua Lu and Liming Zhu: **Agentic RAG with Human-in-the-Retrieval** | 
+| 09:30 | 09:45 | Gaurav Kumbhat and Evaline Ju: **Serving LLMs as detectors in workflows with guardrails** |
+| 09:45 | 10:00 | Nicolas Weeger, Annika Stiehl, Joakim von Kistowski, Stefan Geißelsoder and Christian Uhl: **Towards practicable Machine Learning development using AI Engineering Blueprints** |
+| 10:00 | 10:30 | Coffee Break |    
+| 10:30 | 10:50 | Malene Christiane Nielsen and Serkan Ayvaz: **POE-ML: An automated Pipeline for Optimization and Evaluation of Machine Learning** |
+| 10:50 | 11:10 | Muhammad Atif, Tommaso Zoppi and Andrea Bondavalli: **System-Awareness: an Enabling Condition to Design and Deploy Anomaly Detectors** |
+| 11:10 | 11:30 | Robert Lowe, Maria Ulan, Thanh Bui, Ana Adell, Jokin Labaien and Axel Brando: **Managing Sources of Uncertainty in Utilizing AI in Development and Deployment of Safety-Critical Autonomous Systems** |
+| 11:30 | 12:30 | Lunch |
+| 12:30 | 13:30 | **Panel Discussion** |
+| 13:30 | 14:20 | **Working Session** |
+| 14:20 | 14:30 | **Closing Thoughts** |
+| 14:30 | 15:00 | Coffee Break |
+| 15:00 | 16:00 | Special Talk by Len Bass on **AI System Architecture** |
+
 
 <!--**Please note that due to unforeseen circumstances the keynote by Heiko Koziolek had to be cancelled**-->
 
